@@ -1,0 +1,32 @@
+body{ 
+    overflow: hidden;
+}
+
+.contactDiv{
+    padding-left: 10%;
+}
+
+.contact{
+    font-size: large;
+}
+
+.sitename{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+.jobtitle{
+    display: flex;
+    justify-content: center;
+    font-size: large;
+}
+.latest{
+    position: relative;
+    left: 40em;
+}
+
+.yt{
+    position: relative;
+    left: 40em;
+}
